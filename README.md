@@ -1,0 +1,1 @@
+Simple tetris game made to learn c++. Currently work in progress. Based on instructions provided by Javier López at https://javilop.com/gamedev/tetris-tutorial-in-c-platform-independent-focused-in-game-logic-for-beginners/ from the GitHub [projects based learning repository]([url](https://github.com/practical-tutorials/project-based-learning))
