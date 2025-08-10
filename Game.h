@@ -17,7 +17,7 @@ class Game {
         int mPiece, mRotation;
 
     private:
-        int mPieceHeight;
+        int mScreenHeight;
         int mNextPosX, mNextPosY;
         int mNextPiece, mNextRotation;
 
